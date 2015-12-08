@@ -1,0 +1,18 @@
+INSERT INTO `bookfront` (`id`, `bookid`, `name`, `value`, `deleted`) VALUES
+(18, 5, 'mrp', '125', 0),
+(19, 5, 'image', 'http://npauthorweb.s3.amazonaws.com/roystonfernandes.com/mloreebookcover.png', 0),
+(20, 5, 'blurb', '53% of the 6 billion+ world’s population lives within 200 kilometers of the coastline.
+1 billion people live within a height of 20 meters above the mean sea level.
+21 of the 33 megacities of the world lie along the coasts.
+Tourism is the fastest growing sector in the world economy. Coastal areas comprise of the largest number of tourist destinations.
+35 million+ people worldwide rely on fishing as a source of livelihood.
+More than half of the world’s industries lie along the coasts.
+Contribution of coastal areas to a coastal country’s GDP is as high as 95% in some cases.
+The world’s economic and social heart lies along its coasts. The world is where the coast is! Global warming induced climate change will change the way we look at our coasts. Rising sea levels will displace millions. The entire fishing industry will collapse. Coastal agriculture will take a beating. Unpredictable and unprecedented changes in the weather will wreak havoc. Existing infrastructural facilities that form the backbone of our economy such as ports, industries and power plants will become obsolete. Economies will collapse and diseases would rise. Lawlessness will prevail. Humanity would meet its doom! Can we prevent a doomsday like scenario? – Yes Can we do it in the present system? – No In the present system of a capitalistic selfish society, no amount of measures taken to adapt to or mitigate the effects of climate change would be enough. The present system looks at short term monetary benefits ignoring the issue from a long term humanitarian perspective. The need of the hour is a total overhaul of the system. A new socio-economic model – the society without selfishness.
+
+- See more at: https://notionpress.com/read/wake-up-mangalore-or-be-damned#sthash.sP5x9qLg.dpuf', 0),
+(21, 5, 'flipkart', 'http://www.flipkart.com/wake-up-mangalore-damned/p/itmdqhrqxh5dddcx?pid=9789383416721', 0),
+(22, 5, 'npstore', 'https://notionpress.com/read/wake-up-mangalore-or-be-damned', 0),
+(23, 5, 'bookadda', 'http://www.bookadda.com/books/wake-mangalore-damned-royston-fernandes-9383416726-9789383416721', 0),
+(24, 5, 'amazoncom', 'http://www.amazon.com/Wake-up-Mangalore-be-damned/dp/9383416726/ref=sr_1_1?ie=UTF8&qid=1384575991&sr=8-1&keywords=Wake+up+Mangalore...or+be+damned%21', 0),
+(25, 5, 'amazonin', 'http://www.amazon.in/Wake-up-Mangalore-be-damned-ebook/dp/B00GS16GYO/ref=sr_1_1?ie=UTF8&qid=1403845233&sr=8-1&keywords=wake+up+mangalore', 0);
